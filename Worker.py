@@ -5,7 +5,7 @@ Initially sends zero, adds one to recived input
 import redis
 import json
 
-from web import REDIS_URL, REDIS_CHAN
+from Web import REDIS_URL, REDIS_CHAN
 from time import sleep
 
 
